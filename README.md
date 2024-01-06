@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jhonny Berrocal, electronic engineer student from Lima, Peru.
+- 👋 Hi, I’m Jhonny Berrocal, electronic engineering student from Lima, Peru.
 - 👀 I’m interested in Cybersecurity, Python and proyects using Arduino, ESP32
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
