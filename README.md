@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jhonny Berrocal, electronic engineering student from Lima, Peru.
-- 👀 I’m interested in Cybersecurity, Python and projects using Arduino, ESP32
+- 👋 Hi, I’m Jhonny Berrocal, electronic engineering student from Lima, Peru
+- 👀 I’m interested in Cybersecurity, technology and projects using Arduino, ESP32
 - 🌱 I’m currently learning Linux and Python
 
 <!---
